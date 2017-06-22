@@ -7,13 +7,13 @@ P {
 h1 {
  font-family: Patrick Hand SC;
  color: #fff;
- font-size: 300%
+ font-size: 26px;
 }
 
-.cover {}
+
  
 .background{
-background-image: url("http://cdn.wallpapersafari.com/46/59/ZUnO7f.jpg")
+background-image: url("http://cdn.wallpapersafari.com/46/59/ZUnO7f.jpg");
 }
 }
 .border {
@@ -22,7 +22,6 @@ background-image: url("http://cdn.wallpapersafari.com/46/59/ZUnO7f.jpg")
   width: 90%;
   border: 2px solid #FFF;
   border-radius: 10px;
-  background-image: url("http://cdn.wallpapersafari.com/46/59/ZUnO7f.jpg")
 }
 
 comment {
@@ -42,5 +41,5 @@ h3 {
 }
 
 .title {
-  background-image:url("http://cdn.wallpapersafari.com/46/59/ZUnO7f.jpg")
+  background-image:url("http://cdn.wallpapersafari.com/46/59/ZUnO7f.jpg");
 }
