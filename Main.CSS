@@ -1,0 +1,25 @@
+P{color: #d9d9d9
+ ;font-family: Arial;
+  font-size: 110%;
+}h1{font-family: Patrick Hand SC;
+color:#fff;
+font-size: 300%
+}
+
+.cover{background-image: url("http://cdn.wallpapersafari.com/46/59/ZUnO7f.jpg")}
+.border{
+  margin: 100px auto;
+  padding: 10px 0px 0px 0px;
+  width: 90%;
+border: 2px solid #FFF;
+border-radius: 10px;
+}
+comment{position: center;}
+li{
+  font-size: 150%;}
+  h2,h3,NAME,Website,Comment,Li{font-family:Patrick Hand SC;}  
+h3{
+  font-size: 110%;
+}
+.title{
+  background-image:url("")}
