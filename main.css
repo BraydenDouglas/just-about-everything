@@ -11,9 +11,11 @@ h1 {
 }
 
 .cover {
- background-image: url("http://cdn.wallpapersafari.com/46/59/ZUnO7f.jpg")
+ 
+.background{
+background-image: url("http://cdn.wallpapersafari.com/46/59/ZUnO7f.jpg")
 }
-
+}
 .border {
   margin: 100px auto;
   padding: 10px 0px 0px 0px;
